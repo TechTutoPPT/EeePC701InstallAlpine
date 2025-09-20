@@ -8,8 +8,8 @@ https://alpinelinux.org/downloads/
 https://rufus.ie/en/
 
 以USB盤啟動電腦, 然後先執行以下指令以減少安裝系統預設使用的容量空間:
-'''
+```
 export BOOT_SIZE=100
 export SWAP_SIZE=0
 export ROOTFS=ext2
-'''
+```
