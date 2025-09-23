@@ -1,4 +1,7 @@
-# EeePC701InstallAlpine
+# Eee PC 701 Install Alpine
+
+[![17年前的Eee PC 701仍能安裝最新的係業系統並能使用AI你信嗎?](https://github.com/TechTutoPPT/EeePC701InstallAlpine/blob/main/cover.PNG)](https://youtu.be/IiPH1N-sjDw)
+
 17年前的Eee PC 701仍能安裝最新的係業系統並能使用AI你信嗎?
 
 首先到官網下載Alpine x86 鏡像:
